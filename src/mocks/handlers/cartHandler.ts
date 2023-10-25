@@ -1,6 +1,6 @@
 import { rest, RestRequest } from 'msw';
-import { products } from '../../components/data/mockData';
 import { Cart } from '../../types/product';
+import { products } from '../../data/mockData';
 
 interface PatchRequest extends RestRequest {
   quantity: number;

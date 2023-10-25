@@ -1,5 +1,5 @@
 import { rest } from 'msw';
-import { products } from '../../components/data/mockData';
+import { products } from '../../data/mockData';
 
 export const productHandler = [
   rest.get('/products', (_req, res, ctx) => {

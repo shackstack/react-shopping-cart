@@ -21,13 +21,6 @@ export const products = [
       'https://cdn.shopify.com/s/files/1/0099/5708/1143/products/1904905_KEYL_2.jpg?v=1683635492',
   },
   {
-    id: 4,
-    name: 'BASIC STÜSSY TEE',
-    price: 73000,
-    imageUrl:
-      'https://cdn.shopify.com/s/files/1/0099/5708/1143/products/1904870_BLAC_2_88e20c3d-740d-4ef9-b800-289a3eb42332.jpg?v=1683148483',
-  },
-  {
     id: 5,
     name: 'BASIC STÜSSY TEE',
     price: 73000,
